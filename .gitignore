@@ -1,0 +1,11 @@
+bin/
+*.db
+*.db-wal
+*.db-shm
+.env
+.env.local
+threadsmith
+.idea/
+.vscode/
+*.test
+*.out
